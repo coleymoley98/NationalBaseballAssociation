@@ -14,8 +14,8 @@ hsx = sorting ends here
 hsi = ignore this line when sorting
 */
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400);
-@import url(http://fonts.googleapis.com/css2?family=Special+Elite);
+@import url(//fonts.googleapis.com/css?family=Open+Sans:400);
+@import url(//fonts.googleapis.com/css2?family=Special+Elite);
 
 
 body			{ font-family:"Special Elite", Cursive; font-size:13px; color:#1B1B1B; }
